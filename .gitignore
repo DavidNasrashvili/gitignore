@@ -1,0 +1,7 @@
+node.modules
+dist
+.env
+*logs
+secret.txt
+!notes.txt
+!src
